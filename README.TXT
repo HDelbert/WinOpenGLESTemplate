@@ -1,3 +1,5 @@
+从OpenGL_ES_2.0_Programming_Guide实例代码整理出来的。
+
 Build Instructions
 ------------------
 
